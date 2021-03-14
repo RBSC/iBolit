@@ -1,0 +1,46 @@
+Name     iBolit_GAL ;
+PartNo   00 ;
+Date     06-Jan-21 ;
+Revision 01 ;
+Designer Wierzbowsky ;
+Company  RBSC ;
+Assembly iBOLIT Diagnostics Cartridge v1.0 ;
+Location  ;
+Device   g22v10 ;
+
+/* *************** INPUT PINS *********************/
+PIN 2  = IN0;
+PIN 3  = IN1;
+PIN 4  = IN2;
+PIN 5  = IN3;
+PIN 6  = IN4;
+PIN 7  = IN5;
+PIN 8  = IN6;
+PIN 9  = IN7;
+PIN 10 = IN8;
+PIN 11 = IN9;
+
+/* *************** OUTPUT PINS *********************/
+PIN 14 = OUT0;
+PIN 15 = OUT1;
+PIN 16 = OUT2;
+PIN 17 = OUT3;
+PIN 18 = OUT4;
+PIN 19 = OUT5;
+PIN 20 = OUT6;
+PIN 21 = OUT7;
+PIN 22 = OUT8;
+PIN 23 = OUT9;
+
+
+/* *************** LOGIC *********************/
+OUT0  = IN0;
+OUT1  = IN1;
+OUT2  = IN2;
+OUT3  = IN3;
+OUT4  = IN4;
+OUT5  = IN5;
+OUT6  = IN6;
+OUT7  = IN7;
+OUT8  = IN8;
+OUT9 = IN9;

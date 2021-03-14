@@ -1,0 +1,48 @@
+--------------------------------------------------------------------------------
+iBolit Simple Diagnostics Cartridge
+Copyright (c) 2020-2021 RBSC
+Last updated: 14.03.2021
+--------------------------------------------------------------------------------
+
+Partlist
+--------
+
+Part     Value           Device               Package      Library         Sheet
+--------------------------------------------------------------------------------
+C1       100nF           C-EUC0805            C0805        rcl             1
+C2       100nF           C-EUC0805            C0805        rcl             1
+C3       100nF           C-EUC0805            C0805        rcl             1
+C4       100nF           C-EUC0805            C0805        rcl             1
+C5       47uF 10v        CPOL-EUSMCB          SMC_B        rcl             1
+C6       10-47uF         C-EUC1210            C1210        rcl             1
+C7       10-47uF         C-EUC1210            C1210        rcl             1
+C8       10-47uF         C-EUC1210            C1210        rcl             1
+C9       10-47uF         C-EUC1210            C1210        rcl             1
+DC1      VA-1212S        VA-1212S             4SIL         dc-dc-converter 1
+DC2      VA-1212S        VA-1212S             4SIL         dc-dc-converter 1
+IC1      GAL22V10        22V10                DIL24-3      pal             1
+IC2      GAL22V10        22V10                DIL24-3      pal             1
+IC3      GAL22V10        22V10                DIL24-3      pal             1
+IC4      GAL22V10        22V10                DIL24-3      pal             1
+LB1      LEDBLOCK10      LEDBLOCK10           LB10         ledblock        1
+LB2      LEDBLOCK10      LEDBLOCK10           LB10         ledblock        1
+LB3      LEDBLOCK10      LEDBLOCK10           LB10         ledblock        1
+LB4      LEDBLOCK10      LEDBLOCK10           LB10         ledblock        1
+LED1                     LED5MM               LED5MM       5mm power led   1
+R1       2k2             R-EU_R0805           R0805        resistor        1
+R2       1k              R-EU_R0805           R0805        resistor        1
+RN1      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN2      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN3      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN4      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN5      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN6      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN7      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN8      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN9      CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN10     CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN11     CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+RN12     CTS742C083      CTS742C083           CTS742C083   resistor-net    1
+X1       VA-METER        VA-METER             VA_METER     va_meter        1
+X2       VA-METER        VA-METER             VA_METER     va_meter        1
+X3       VA-METER        VA-METER             VA_METER     va_meter        1
