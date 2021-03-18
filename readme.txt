@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 iBolit Simple Diagnostics Cartridge
 Copyright (c) 2020-2021 RBSC
-Last updated: 16.03.2021
+Last updated: 18.03.2021
 --------------------------------------------------------------------------------
 
 About
@@ -18,7 +18,8 @@ The cartridge that we named "iBolit" ( see Doctor Aybolit) was created using the
 and volt/ammeters from the PC's USB socket tester dongles. There's a cartridge slot installed on the top of iBolit cartridge's
 board. There one can insert any cartridge including the one with MSX diagnostics ROM (there are a few, but it would be nice to
 create a universal one). The GAL firmware is very primitive - if there's a high level on input, the LED connected to the output
-will light up. The cartridge is fairly cheap to build - maximum 12-15 Euro - and is relatively easy to assemble.
+will light up. The cartridge is fairly cheap to build - maximum 12-15 Euro - and is relatively easy to assemble. The daughterboard
+with voltmeters is detachable.
 
 
 Where to buy parts
@@ -74,6 +75,10 @@ Please read the following notes carefully:
  - Before inserting the diagnostics board into the MSX slot it's highly recommend to make sure that +5v on the slot is within
    acceptable range (not more than 6-7v!), otherwise the diagnostics board may be damaged. The device doesn't have the
    over-voltage protection on the +5v rail
+
+ - The daughterboard with voltmeters is detachable. When it is detached, no power will be supplied to the upper cartridge slot.
+   If you need to use the cartridge slot without the attached daughterboard, you need to put 5 jumpers horizontally on 5 pairs
+   of pins of the connector
 
 
 IMPORTANT!
