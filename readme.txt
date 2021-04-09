@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 iBolit Simple Diagnostics Cartridge
 Copyright (c) 2020-2021 RBSC
-Last updated: 18.03.2021
+Last updated: 09.04.2021
 --------------------------------------------------------------------------------
 
 About
@@ -27,15 +27,16 @@ Where to buy parts
 
 The parts for assembling the cartridge can be purchased from these sellers on AliExpress:
 
- - https://www.aliexpress.com/item/32929139598.html (buy the one with gray case and USB connectors on the left and right side)
+ - https://www.aliexpress.com/item/32929139598.html   (buy the one with gray case and USB connectors on the left and right side)
  - https://www.aliexpress.com/item/4000078359420.html (buy 2 converters)
  - https://www.aliexpress.com/item/4001336380255.html (buy 2x5 pin headers)
- - https://www.aliexpress.com/item/32890057619.html (buy 2x5 pin connectors)
+ - https://www.aliexpress.com/item/32890057619.html   (buy 2x5 pin connectors)
  - https://www.aliexpress.com/item/4000970562846.html (also buy blue and yellow colors)
- - https://www.aliexpress.com/item/32800771545.html (or use a different 5mm LED)
- - https://www.aliexpress.com/item/32918831775.html (buy 1kOhm SMD resistor assemblies)
- - https://www.aliexpress.com/item/32948284513.html (this LED is for the -12v voltmeter)
- - https://www.aliexpress.com/item/32375666910.html (buy 10uF and 47uF capacitors)
+ - https://www.aliexpress.com/item/32800771545.html   (or use a different 5mm LED)
+ - https://www.aliexpress.com/item/32918831775.html   (buy 1kOhm SMD resistor assemblies)
+ - https://www.aliexpress.com/item/32948284513.html   (this LED is for the -12v voltmeter)
+ - https://www.aliexpress.com/item/32375666910.html   (buy 10uF and 47uF capacitors)
+ - https://www.aliexpress.com/item/4001146953252.html (buy 50-pin angled slot connector)
 
 
 Assembling notes

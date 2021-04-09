@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 iBolit Simple Diagnostics Cartridge
 Copyright (c) 2020-2021 RBSC
-Last updated: 26.03.2021
+Last updated: 09.04.2021
 --------------------------------------------------------------------------------
 
 Partlist
@@ -48,3 +48,4 @@ X2       VA-METER        VA-METER             VA_METER     va_meter        1
 X3       VA-METER        VA-METER             VA_METER     va_meter        1
 JP1                      PIN-HEADER           JP5Q_CUSTOM  dual-row male   1
 JP2                      PIN-HEADER           JP5Q_CUSTOM  dual-row female 1
+MSXSLOT                  EDGE-CONNECTOR                    50-pin slot     1
