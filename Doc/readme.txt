@@ -1,8 +1,22 @@
 --------------------------------------------------------------------------------
 iBolit Simple Diagnostics Cartridge
-Copyright (c) 2020-2021 RBSC
-Last updated: 09.04.2021
+Copyright (c) 2020-2022 RBSC
+Last updated: 16.07.2022
 --------------------------------------------------------------------------------
+
+UPDATE from 16.07.2022
+----------------------
+
+It's recommended to update the cartridge with an overvoltage protection. See the "iBolit_fuse.jpg" image in the Pics folder!
+
+To install the overvoltage protection, isolate pin 24 of IC1 - cut the traces on both sides of the pin. Then purchase and
+solder a 5.1V 1W rated zener diode between pins 12 and 24, the cathode should be connected to pin 24. Solder resettable fuse
+0.5A between C2 and pin 24 of IC1. Solder a wire between C5 and the cut off trace to supply power to the voltmeters.
+
+This way the PLD ICs and LEDs will be protected from the overvoltage while the 5V voltmeter will show exact voltage on the slot
+connector.
+
+
 
 About
 -----
